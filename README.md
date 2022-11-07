@@ -2,8 +2,10 @@
 
 
 ## 📫 Contact
-You can email me:
+Email:
 `unaibh01@gmail.com`
+LinkedIn:
+https://www.linkedin.com/in/unai-bonilla-hernandez
 <!--
 **BBonLLo/BBonLLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
