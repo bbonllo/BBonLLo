@@ -3,8 +3,7 @@
 
 ## 📫 Contact
 Email:
-`unaibh01@gmail.com`
-<a href="mailto:john@example.com">Unai</a>
+`<a href="mailto:unaibh01@gmail.com">unaibh01@gmail.com</a>`
 
 LinkedIn:
 https://www.linkedin.com/in/unai-bonilla-hernandez
